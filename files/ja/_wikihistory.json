@@ -29196,10 +29196,6 @@
     "modified": "2019-03-23T23:15:24.685Z",
     "contributors": ["Marsf", "Fajrovulpo"]
   },
-  "Web/MathML/Attribute/Values": {
-    "modified": "2020-08-05T13:50:06.580Z",
-    "contributors": ["eltociear"]
-  },
   "Web/MathML/Authoring": {
     "modified": "2020-11-28T13:33:37.561Z",
     "contributors": ["mfuji09", "YUUKIToriyama", "cmplstofB"]
@@ -29315,6 +29311,10 @@
   "Web/MathML/Examples/MathML_Pythagorean_Theorem": {
     "modified": "2019-03-23T22:48:54.236Z",
     "contributors": ["dskmori", "cosmology233"]
+  },
+  "Web/MathML/Values": {
+    "modified": "2020-08-05T13:50:06.580Z",
+    "contributors": ["eltociear"]
   },
   "Web/Media": {
     "modified": "2020-10-24T14:12:13.318Z",

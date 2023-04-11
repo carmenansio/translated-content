@@ -4224,6 +4224,7 @@
 /ja/docs/Web/CSS/transform-function/translateX()	/ja/docs/Web/CSS/transform-function/translateX
 /ja/docs/Web/CSS/transform-function/translateY()	/ja/docs/Web/CSS/transform-function/translateY
 /ja/docs/Web/CSS/transform-function/translateZ()	/ja/docs/Web/CSS/transform-function/translateZ
+/ja/docs/Web/CSS/translation-value	/ja/docs/orphaned/Web/CSS/translation-value
 /ja/docs/Web/CSS/uri	/ja/docs/Web/CSS/url
 /ja/docs/Web/CSS/url()	/ja/docs/Web/CSS/url
 /ja/docs/Web/CSS/user-ident	/ja/docs/Web/CSS/custom-ident
@@ -4888,6 +4889,7 @@
 /ja/docs/Web/Manifest/dir	/ja/docs/Web/Manifest
 /ja/docs/Web/Manifest/iarc_rating_id	/ja/docs/Web/Manifest
 /ja/docs/Web/Manifest/lang	/ja/docs/Web/Manifest
+/ja/docs/Web/MathML/Attribute/Values	/ja/docs/Web/MathML/Values
 /ja/docs/Web/MathML/Index	/ja/docs/Web/MathML
 /ja/docs/Web/Media/images/aspect_ratio_mapping	/ja/docs/Learn/Performance/Multimedia
 /ja/docs/Web/Progressive_web_apps/Add_to_home_screen	/ja/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable
